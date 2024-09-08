@@ -68,7 +68,7 @@ This project is open for any changes to help improve your HTML skills.
 Kanhu Charan Soren - Initial work - https://github.com/kanhujr
 
 ## Acknowledgements
-Special thanks to Jonas Schmedtmann for the inspiration and resources.
+Special thanks to @Jonas Schmedtmann for the inspiration and resources.
 
 ## Contact Information
 Email: jrkanhu8@gmail.com
